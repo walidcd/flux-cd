@@ -145,9 +145,6 @@ Excellent — continuing in the same clean report style ✅
 Here is the requested addition + Kubernetes Theory Part 2.
 
 ---
-
-# 📘 Kubernetes Fundamentals — Core Concepts (Extended)
-
 ## 8️⃣ Nodes
 
 ### Definition
